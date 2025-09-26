@@ -35,7 +35,6 @@ The repo is designed as a **DevOps portfolio project** to showcase:
 
 This project follows a standard AWS DevOps pipeline:  
 
-> ℹ️ Two versions of the architecture diagram will be provided (simple schematic + AWS-branded).  
 
 ![Architecture Diagram](./docs/architecture.png)  
 
