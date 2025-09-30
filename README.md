@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates a **full CI/CD pipeline on AWS** for deploying a Java web application.  
 The application is packaged as a **WAR** using **Maven** and deployed to **Apache Tomcat** running on an **AWS EC2 instance (Amazon Linux with Corretto 8)**.  
@@ -20,7 +20,7 @@ The repo is designed as a **DevOps portfolio project** to showcase:
 
 ---
 
-## ✨ Features
+## Features
 
 - Java WAR application packaged with Maven  
 - CI/CD automation with AWS buildspec & appspec files  
@@ -31,7 +31,7 @@ The repo is designed as a **DevOps portfolio project** to showcase:
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 This project follows a standard AWS DevOps pipeline:  
 
@@ -40,7 +40,7 @@ This project follows a standard AWS DevOps pipeline:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language**: Java 8 (Corretto)  
 - **Build Tool**: Maven  
@@ -69,7 +69,7 @@ This project follows a standard AWS DevOps pipeline:
 
 ---
 
-## 🚀 CI/CD Pipeline
+## CI/CD Pipeline
 
 **Commit → Build → Store → Deploy → Run**
 
@@ -82,7 +82,7 @@ This project follows a standard AWS DevOps pipeline:
 
 ---
 
-## ⚙️ Deployment Workflow
+## Deployment Workflow
 
 1. Push code changes to GitHub.  
 2. AWS CodeBuild compiles and packages the WAR.  
@@ -95,7 +95,7 @@ This project follows a standard AWS DevOps pipeline:
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 
 This project gave me hands-on experience with **end-to-end DevOps pipelines** and AWS cloud services. Key skills gained:
 
@@ -112,7 +112,7 @@ This project represents my **first DevOps pipeline**, building foundational skil
 
 ---
 
-## 📈 Roadmap
+## Roadmap
 
 Planned improvements for expanding the DevOps pipeline:
 
@@ -124,13 +124,13 @@ Planned improvements for expanding the DevOps pipeline:
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the **MIT License** — free to use, modify, and share.  
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 - AWS DevOps learning resources and documentation  
 - Maven + Tomcat community for Java web deployments  
